@@ -34,7 +34,7 @@ ul{
 }
 .intro{
     display: flex;
-    padding: 70px 150px;
+    padding: 70px 0px;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
