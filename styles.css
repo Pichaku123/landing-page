@@ -13,7 +13,7 @@ ul{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 200px;
+    padding: 20px 500px;
 }
 .header > h1{
     font-size: 24px;
@@ -34,9 +34,9 @@ ul{
 }
 .intro{
     display: flex;
-    padding: 70px 0px;
+    padding: 75px 500px;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     gap: 32px;
 }
@@ -48,16 +48,17 @@ ul{
 }
 .left{
     font-size: 18px;
-    margin: 0px 20px;
     padding: 0px;
     color: #e5e7eb;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    border: 2px solid;
     gap: 10px;
+    flex-basis: 500px;
 }
 .hero-img {
-    width: 600px;
+    width: 450px;
     height: 300px;
 }
 .left >button{
@@ -105,7 +106,7 @@ ul{
 
 .quote{
     background-color: #e5e7eb;
-    padding: 75px 200px;
+    padding: 75px 500px;
 }
 .text{
     color: #1f2937;
@@ -126,7 +127,7 @@ ul{
 
 /* FOURTH */
 .signup{
-    padding: 75px 200px;
+    padding: 75px 500px;
     color: #e5e7eb;
 }
 .menu{
