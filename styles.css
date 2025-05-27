@@ -14,7 +14,7 @@ ul{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 300px;
+    padding: 20px 250px;
 }
 /* .intro, .header, .quote, .signup {
     padding: 0 200px;
@@ -38,7 +38,7 @@ ul{
 }
 .intro{
     display: flex;
-    padding: 75px 300px;
+    padding: 75px 250px;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
@@ -62,7 +62,7 @@ ul{
 }
 .hero-img {
     width: 300px;
-    height: auto;
+    height: 200px;
 }
 .left >button{
     background-color: #3882f6;
@@ -109,7 +109,7 @@ ul{
 
 .quote{
     background-color: #e5e7eb;
-    padding: 75px 300px;
+    padding: 75px 250px;
 }
 .text{
     color: #1f2937;
@@ -130,7 +130,7 @@ ul{
 
 /* FOURTH */
 .signup{
-    padding: 75px 300px;
+    padding: 75px 250px;
     color: #e5e7eb;
 }
 .menu{
